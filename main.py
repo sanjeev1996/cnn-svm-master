@@ -6,7 +6,7 @@ from __future__ import division
 from __future__ import print_function
 
 __version__ = '0.1.0'
-__author__ = 'Abien Fred Agarap'
+__author__ = 'Sanjeev'
 
 import argparse
 from model.cnn_softmax import CNN
